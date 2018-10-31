@@ -7,3 +7,4 @@ adicionando um novo texto
 public class void main(){
 	System.out.println('');
 }
+
